@@ -1,0 +1,65 @@
+@charset "utf-8";
+@import url(<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">);
+
+
+/* CSS Document */
+
+p { font-size: 3em;
+	
+	font-family: 'Roboto', sans-serif;
+	color:#F89BD8;
+    borborder-style: solid;
+	border-style: solid;
+  border-color: #F89BD8;
+	 border-radius: 5px;
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+	margin-left: 80px;}
+
+p.lineados { font-size: 3em;
+	
+	font-family: 'Roboto', sans-serif;;
+	color:#6E74D3;
+    borborder-style: solid;
+	border-style: dotted;
+  border-width: 2px;
+  border-color:#6E74D3;
+	 border-radius: 5px;
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+	margin-left: 80px;}
+
+p.terceralinea { font-size: 3em;
+	font-family: 'Roboto', sans-serif;;
+	color:#B5F199;
+	border-style: dotted dashed solid double;
+  border-width: 2px;
+  border-color:#B5F199;
+	 border-radius: 5px;
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+	margin-left: 80px;
+padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px}
+
+p.centrado { font-size: 3em;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;;
+	color:#ED8B8C;
+	border-style: dotted dashed solid double;
+  border-width: 2px;
+  border-color:#ED8B8C;
+	 border-radius: 5px;
+ margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+	margin-left: 80px;
+padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px}
